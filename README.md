@@ -26,7 +26,6 @@ Aprender novas tecnologias.
 Construir um portfólio com projetos relevantes.
 Compartilhar conhecimento e experiências.
 📫 Contato
-GitHub: https://github.com/seu-usuario
-E-mail: seu-email@exemplo.com
-
+GitHub: https://github.com/Monicanayr
+E-mail: nayra.s@escolar.ifrn.edu.br
 ⭐ Obrigada por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução na programação.
