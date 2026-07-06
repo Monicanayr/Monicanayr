@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Olá, sou Monica Nayra, estudante de Informática!
 
-<!--
-**Monicanayr/Monicanayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou aluna do 3º ano do curso de Informática e estou em constante aprendizado na área de tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+💻 Sobre mim
+📚 Estudando programação e desenvolvimento de sistemas.
+🌱 Aprendendo novas linguagens, ferramentas e boas práticas de desenvolvimento.
+🚀 Buscando aprimorar minhas habilidades por meio de projetos e desafios.
+🤝 Sempre aberta a aprender e colaborar com outros estudantes e desenvolvedores.
+🛠️ Tecnologias e Ferramentas
+HTML5
+CSS3
+JavaScript
+Python
+Java
+Git
+GitHub
+Banco de Dados (SQL)
+📂 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste perfil você encontrará projetos desenvolvidos durante meus estudos, trabalhos escolares e iniciativas pessoais para praticar programação.
+
+🎯 Objetivos
+Evoluir como desenvolvedora.
+Aprender novas tecnologias.
+Construir um portfólio com projetos relevantes.
+Compartilhar conhecimento e experiências.
+📫 Contato
+GitHub: https://github.com/seu-usuario
+E-mail: seu-email@exemplo.com
+
+⭐ Obrigada por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução na programação.
